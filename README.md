@@ -5,9 +5,10 @@
 - 👀 I’m looking to master web development
 - ⚡ Fun fact: I love playing video games
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MouadXD&show_icons=true&theme=radical"></img>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadXD&layout=compact"></img>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MouadXD&show_icons=true&theme=radical"></img>
+<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadXD&layout=compact"></img>
+
 
 <div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -17,4 +18,5 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
 </div>
+
 
