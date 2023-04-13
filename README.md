@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a front end devolopper who is passionate about creating technology to elevate people and help new devolopers to find the right path. Some technologies I enjoy working with include Javascript, ReactJs 
+
 This is the place where I opensource stuff and break things
 
 - 🔭 I’m currently working on something cool
