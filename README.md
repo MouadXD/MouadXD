@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is thr place where I opensource stuff and breakpoints
+This is the place where I opensource stuff and break things
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning react js
