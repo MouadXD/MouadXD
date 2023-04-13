@@ -1,6 +1,4 @@
-<!-- ### Hi there 👋 -->
-
-<p align="center">Hello there I'm Mouad 👋🏽</p> 
+### Hi there 👋
 
 This is the place where I opensource stuff and break things
 
