@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p style="align: center">Hi there 👋🏽 wolcome to my Github! I'a a Front-End Devolopper</p>
+<p style="text-align: center">Hi there 👋🏽 wolcome to my Github! I'm a Front-End Devolopper</p>
 
 This is the place where I opensource stuff and break things
 
