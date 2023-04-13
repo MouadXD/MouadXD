@@ -9,4 +9,3 @@ I'm Mouad front-end devoloper who is passionate about creating technology to ele
 - 💬 Ask me about anything related to **ReactJs** and **Frontend**
 - 📫 How to reach me: mouadboufas1090@gmail.com
 
-<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="500px" alt="gif" />
