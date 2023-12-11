@@ -6,6 +6,6 @@ I'm Mouad front-end devoloper who is passionate about creating technology to ele
 - 🔭 I’m currently working on something cool
 - ✨ Looking Forward To Master Web Development.
 - 🌱 I’m currently learning Next js
-- 💬 Ask me about anything related to **ReactJs** and **Frontend**
+- 💬 Ask me about anything related to **javascript**
 - 📫 How to reach me: mouadboufas1090@gmail.com
 
